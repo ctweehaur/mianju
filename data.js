@@ -9,7 +9,7 @@ const lessonData = [
     ["他的", "tā de", "his", "dia punya"],
     ["经纪人", "jīng jì rén", "agent / manager", "ejen / pengurus"],
     ["给他", "gěi tā", "for him", "kepada dia"],
-    ["介绍le", "jiè shào le", "introduced", "memperkenalkan"],
+    ["介绍了", "jiè shào le", "introduced", "memperkenalkan"],
     ["一份", "yí fèn", "a (measure word for jobs)", "sebuah"],
     ["工作", "gōng zuò", "job / work", "pekerjaan"],
     ["，", "", "", ""],
@@ -417,7 +417,7 @@ const lessonData = [
     ["打来了", "dǎ lái le", "made a (call)", "terus membuat"],
     ["电话", "diàn huà", "telephone call", "panggilan telefon"],
     ["，", "", "", ""],
-    ["通报le", "tōng bào le", "notified / reported", "memaklumkan rasmi tentang"],
+    ["通报了", "tōng bào le", "notified / reported", "memaklumkan rasmi tentang"],
     ["老费德诺的", "lǎo fèi dé nuò de", "Old Fednor's", "Old Fednor punya"],
     ["病情", "bìng qíng", "state of illness", "keadaan penyakit"],
     ["，", "", "", ""],
@@ -818,4 +818,14 @@ const lessonData = [
     ["戴好", "dài hǎo", "put on well", "dipakai dengan kemas"],
     ["了", "le", "out", ""],
     ["。", "", "", ""]
+    ["\n", "", "", ""], // 👈 出处补齐
+    ["（", "", "", ""],
+    ["魏炜", "wèi wěi", "Wei Wei (Author)", "Wei Wei (Penulis)"],
+    ["《", "", "", ""],
+    ["面具", "miàn jù", "The Mask", "Topeng Muka"],
+    ["》", "", "", ""],
+    ["，", "", "", ""],
+    ["有", "yǒu", "with", "ada"],
+    ["改动", "gǎi dòng", "adaptations", "ubah suai"],
+    ["）", "", "", ""]
 ];
